@@ -34,7 +34,7 @@
 
 Codename | 完成度 | 作者 | 标题 | 备注
 -------- |:------:| ---- |:---- |:------
-[`f01-html-intro-skel`][f01] | 完成 | @xen0n | HTML 骨架 | 20150128 前端小黑屋第一次授课内容
+[f01-html-intro-skel][f01] | 完成 | @xen0n | HTML 骨架 | 20150128 前端小黑屋第一次授课内容
 `TODO` | TODO | TODO | TODO | TODO
 
 [f01]: f01-html-intro-skel/
